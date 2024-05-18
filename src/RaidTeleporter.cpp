@@ -17,6 +17,7 @@ enum RaidID {
     BLACK_TEMPLE = 564,
 	HYJAL,
 	ZULAMAN = 568,
+    NAXX40 = 533,
 	SUNWELL_PLATEAU
 };
 
@@ -187,6 +188,10 @@ void RaidTeleporterScript::ZonePrep(GameObject* go) {
     }
     case ZULAMAN:{
         teleLocations = RaidTeleLocations::ZA;
+        break;
+    }
+    case NAXX40:{
+        teleLocations = RaidTeleLocations::Naxx40;
         break;
     }
     }

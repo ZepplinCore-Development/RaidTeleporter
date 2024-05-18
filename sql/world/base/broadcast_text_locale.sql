@@ -1551,98 +1551,242 @@ REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, 
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
 (92096, 'zhTW', 'Teleport to Entrance', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92097, 'deDE', 'Teleport to Kalecgos & Sathrovarr', '', 1);
+(92097, 'deDE', 'Teleport to Patchwerk', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92097, 'esES', 'Teleport to Kalecgos & Sathrovarr', '', 1);
+(92097, 'esES', 'Teleport to Patchwerk', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92097, 'esMX', 'Teleport to Kalecgos & Sathrovarr', '', 1);
+(92097, 'esMX', 'Teleport to Patchwerk', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92097, 'frFR', 'Teleport to Kalecgos & Sathrovarr', '', 1);
+(92097, 'frFR', 'Teleport to Patchwerk', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92097, 'koKR', 'Teleport to Kalecgos & Sathrovarr', '', 1);
+(92097, 'koKR', 'Teleport to Patchwerk', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92097, 'ruRU', 'Teleport to Kalecgos & Sathrovarr', '', 1);
+(92097, 'ruRU', 'Teleport to Patchwerk', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92097, 'zhCN', 'Teleport to Kalecgos & Sathrovarr', '', 1);
+(92097, 'zhCN', 'Teleport to Patchwerk', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92097, 'zhTW', 'Teleport to Kalecgos & Sathrovarr', '', 1);
+(92097, 'zhTW', 'Teleport to Patchwerk', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92098, 'deDE', 'Teleport to Brutallus', '', 1);
+(92098, 'deDE', 'Teleport to Grobbulus', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92098, 'esES', 'Teleport to Brutallus', '', 1);
+(92098, 'esES', 'Teleport to Grobbulus', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92098, 'esMX', 'Teleport to Brutallus', '', 1);
+(92098, 'esMX', 'Teleport to Grobbulus', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92098, 'frFR', 'Teleport to Brutallus', '', 1);
+(92098, 'frFR', 'Teleport to Grobbulus', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92098, 'koKR', 'Teleport to Brutallus', '', 1);
+(92098, 'koKR', 'Teleport to Grobbulus', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92098, 'ruRU', 'Teleport to Brutallus', '', 1);
+(92098, 'ruRU', 'Teleport to Grobbulus', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92098, 'zhCN', 'Teleport to Brutallus', '', 1);
+(92098, 'zhCN', 'Teleport to Grobbulus', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92098, 'zhTW', 'Teleport to Brutallus', '', 1);
+(92098, 'zhTW', 'Teleport to Grobbulus', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92099, 'deDE', 'Teleport to Felmyst', '', 1);
+(92099, 'deDE', 'Teleport to Gluth', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92099, 'esES', 'Teleport to Felmyst', '', 1);
+(92099, 'esES', 'Teleport to Gluth', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92099, 'esMX', 'Teleport to Felmyst', '', 1);
+(92099, 'esMX', 'Teleport to Gluth', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92099, 'frFR', 'Teleport to Felmyst', '', 1);
+(92099, 'frFR', 'Teleport to Gluth', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92099, 'koKR', 'Teleport to Felmyst', '', 1);
+(92099, 'koKR', 'Teleport to Gluth', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92099, 'ruRU', 'Teleport to Felmyst', '', 1);
+(92099, 'ruRU', 'Teleport to Gluth', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92099, 'zhCN', 'Teleport to Felmyst', '', 1);
+(92099, 'zhCN', 'Teleport to Gluth', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92099, 'zhTW', 'Teleport to Felmyst', '', 1);
+(92099, 'zhTW', 'Teleport to Gluth', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92100, 'deDE', 'Teleport to Alythess & Sacrolash', '', 1);
+(92100, 'deDE', 'Teleport to Noth the Plaguebringer', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92100, 'esES', 'Teleport to Alythess & Sacrolash', '', 1);
+(92100, 'esES', 'Teleport to Noth the Plaguebringer', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92100, 'esMX', 'Teleport to Alythess & Sacrolash', '', 1);
+(92100, 'esMX', 'Teleport to Noth the Plaguebringer', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92100, 'frFR', 'Teleport to Alythess & Sacrolash', '', 1);
+(92100, 'frFR', 'Teleport to Noth the Plaguebringer', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92100, 'koKR', 'Teleport to Alythess & Sacrolash', '', 1);
+(92100, 'koKR', 'Teleport to Noth the Plaguebringer', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92100, 'ruRU', 'Teleport to Alythess & Sacrolash', '', 1);
+(92100, 'ruRU', 'Teleport to Noth the Plaguebringer', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92100, 'zhCN', 'Teleport to Alythess & Sacrolash', '', 1);
+(92100, 'zhCN', 'Teleport to Noth the Plaguebringer', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92100, 'zhTW', 'Teleport to Alythess & Sacrolash', '', 1);
+(92100, 'zhTW', 'Teleport to Noth the Plaguebringer', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92101, 'deDE', 'Teleport to M\'uru / Entropius', '', 1);
+(92101, 'deDE', 'Teleport to Heigan the Unclean', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92101, 'esES', 'Teleport to M\'uru / Entropius', '', 1);
+(92101, 'esES', 'Teleport to Heigan the Unclean', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92101, 'esMX', 'Teleport to M\'uru / Entropius', '', 1);
+(92101, 'esMX', 'Teleport to Heigan the Unclean', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92101, 'frFR', 'Teleport to M\'uru / Entropius', '', 1);
+(92101, 'frFR', 'Teleport to Heigan the Unclean', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92101, 'koKR', 'Teleport to M\'uru / Entropius', '', 1);
+(92101, 'koKR', 'Teleport to Heigan the Unclean', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92101, 'ruRU', 'Teleport to M\'uru / Entropius', '', 1);
+(92101, 'ruRU', 'Teleport to Heigan the Unclean', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92101, 'zhCN', 'Teleport to M\'uru / Entropius', '', 1);
+(92101, 'zhCN', 'Teleport to Heigan the Unclean', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92101, 'zhTW', 'Teleport to M\'uru / Entropius', '', 1);
+(92101, 'zhTW', 'Teleport to Heigan the Unclean', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92102, 'deDE', 'Teleport to Kil\'jaeden', '', 1);
+(92102, 'deDE', 'Teleport to Loatheb', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92102, 'esES', 'Teleport to Kil\'jaeden', '', 1);
+(92102, 'esES', 'Teleport to Loatheb', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92102, 'esMX', 'Teleport to Kil\'jaeden', '', 1);
+(92102, 'esMX', 'Teleport to Loatheb', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92102, 'frFR', 'Teleport to Kil\'jaeden', '', 1);
+(92102, 'frFR', 'Teleport to Loatheb', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92102, 'koKR', 'Teleport to Kil\'jaeden', '', 1);
+(92102, 'koKR', 'Teleport to Loatheb', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92102, 'ruRU', 'Teleport to Kil\'jaeden', '', 1);
+(92102, 'ruRU', 'Teleport to Loatheb', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92102, 'zhCN', 'Teleport to Kil\'jaeden', '', 1);
+(92102, 'zhCN', 'Teleport to Loatheb', '', 1);
 REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
-(92102, 'zhTW', 'Teleport to Kil\'jaeden', '', 1);
+(92102, 'zhTW', 'Teleport to Loatheb', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92103, 'deDE', 'Teleport to Anub\'Rekhan', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92103, 'esES', 'Teleport to Anub\'Rekhan', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92103, 'esMX', 'Teleport to Anub\'Rekhan', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92103, 'frFR', 'Teleport to Anub\'Rekhan', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92103, 'koKR', 'Teleport to Anub\'Rekhan', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92103, 'ruRU', 'Teleport to Anub\'Rekhan', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92103, 'zhCN', 'Teleport to Anub\'Rekhan', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92103, 'zhTW', 'Teleport to Anub\'Rekhan', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92104, 'deDE', 'Teleport to Grand Widow Faerlina', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92104, 'esES', 'Teleport to Grand Widow Faerlina', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92104, 'esMX', 'Teleport to Grand Widow Faerlina', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92104, 'frFR', 'Teleport to Grand Widow Faerlina', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92104, 'koKR', 'Teleport to Grand Widow Faerlina', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92104, 'ruRU', 'Teleport to Grand Widow Faerlina', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92104, 'zhCN', 'Teleport to Grand Widow Faerlina', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92104, 'zhTW', 'Teleport to Grand Widow Faerlina', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92105, 'deDE', 'Teleport to Maexxna', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92105, 'esES', 'Teleport to Maexxna', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92105, 'esMX', 'Teleport to Maexxna', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92105, 'frFR', 'Teleport to Maexxna', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92105, 'koKR', 'Teleport to Maexxna', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92105, 'ruRU', 'Teleport to Maexxna', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92105, 'zhCN', 'Teleport to Maexxna', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92105, 'zhTW', 'Teleport to Maexxna', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92106, 'deDE', 'Teleport to Thaddius', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92106, 'esES', 'Teleport to Thaddius', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92106, 'esMX', 'Teleport to Thaddius', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92106, 'frFR', 'Teleport to Thaddius', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92106, 'koKR', 'Teleport to Thaddius', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92106, 'ruRU', 'Teleport to Thaddius', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92106, 'zhCN', 'Teleport to Thaddius', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92106, 'zhTW', 'Teleport to Thaddius', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92107, 'deDE', 'Teleport to Instructor Razuvious', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92107, 'esES', 'Teleport to Instructor Razuvious', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92107, 'esMX', 'Teleport to Instructor Razuvious', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92107, 'frFR', 'Teleport to Instructor Razuvious', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92107, 'koKR', 'Teleport to Instructor Razuvious', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92107, 'ruRU', 'Teleport to Instructor Razuvious', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92107, 'zhCN', 'Teleport to Instructor Razuvious', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92107, 'zhTW', 'Teleport to Instructor Razuvious', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92108, 'deDE', 'Teleport to Gothik the Harvester', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92108, 'esES', 'Teleport to Gothik the Harvester', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92108, 'esMX', 'Teleport to Gothik the Harvester', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92108, 'frFR', 'Teleport to Gothik the Harvester', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92108, 'koKR', 'Teleport to Gothik the Harvester', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92108, 'ruRU', 'Teleport to Gothik the Harvester', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92108, 'zhCN', 'Teleport to Gothik the Harvester', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92108, 'zhTW', 'Teleport to Gothik the Harvester', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92109, 'deDE', 'Teleport to The Four Horsemen', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92109, 'esES', 'Teleport to The Four Horsemen', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92109, 'esMX', 'Teleport to The Four Horsemen', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92109, 'frFR', 'Teleport to The Four Horsemen', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92109, 'koKR', 'Teleport to The Four Horsemen', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92109, 'ruRU', 'Teleport to The Four Horsemen', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92109, 'zhCN', 'Teleport to The Four Horsemen', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92109, 'zhTW', 'Teleport to The Four Horsemen', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92110, 'deDE', 'Teleport to Sapphiron', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92110, 'esES', 'Teleport to Sapphiron', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92110, 'esMX', 'Teleport to Sapphiron', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92110, 'frFR', 'Teleport to Sapphiron', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92110, 'koKR', 'Teleport to Sapphiron', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92110, 'ruRU', 'Teleport to Sapphiron', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92110, 'zhCN', 'Teleport to Sapphiron', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92110, 'zhTW', 'Teleport to Sapphiron', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92111, 'deDE', 'Teleport to Kel\'Thuzad', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92111, 'esES', 'Teleport to Kel\'Thuzad', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92111, 'esMX', 'Teleport to Kel\'Thuzad', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92111, 'frFR', 'Teleport to Kel\'Thuzad', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92111, 'koKR', 'Teleport to Kel\'Thuzad', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92111, 'ruRU', 'Teleport to Kel\'Thuzad', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92111, 'zhCN', 'Teleport to Kel\'Thuzad', '', 1);
+REPLACE INTO `broadcast_text_locale` (`ID`, `locale`, `MaleText`, `FemaleText`, `VerifiedBuild`) VALUES
+(92111, 'zhTW', 'Teleport to Kel\'Thuzad', '', 1);

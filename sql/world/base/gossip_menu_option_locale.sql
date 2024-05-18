@@ -1551,98 +1551,242 @@ REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `Optio
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
 (45012, 0, 'zhTW', 'Teleport to Entrance', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 1, 'deDE', 'Teleport to Kalecgos & Sathrovarr', '');
+(45012, 1, 'deDE', 'Teleport to Patchwerk', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 1, 'esES', 'Teleport to Kalecgos & Sathrovarr', '');
+(45012, 1, 'esES', 'Teleport to Patchwerk', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 1, 'esMX', 'Teleport to Kalecgos & Sathrovarr', '');
+(45012, 1, 'esMX', 'Teleport to Patchwerk', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 1, 'frFR', 'Teleport to Kalecgos & Sathrovarr', '');
+(45012, 1, 'frFR', 'Teleport to Patchwerk', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 1, 'koKR', 'Teleport to Kalecgos & Sathrovarr', '');
+(45012, 1, 'koKR', 'Teleport to Patchwerk', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 1, 'ruRU', 'Teleport to Kalecgos & Sathrovarr', '');
+(45012, 1, 'ruRU', 'Teleport to Patchwerk', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 1, 'zhCN', 'Teleport to Kalecgos & Sathrovarr', '');
+(45012, 1, 'zhCN', 'Teleport to Patchwerk', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 1, 'zhTW', 'Teleport to Kalecgos & Sathrovarr', '');
+(45012, 1, 'zhTW', 'Teleport to Patchwerk', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 2, 'deDE', 'Teleport to Brutallus', '');
+(45012, 2, 'deDE', 'Teleport to Grobbulus', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 2, 'esES', 'Teleport to Brutallus', '');
+(45012, 2, 'esES', 'Teleport to Grobbulus', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 2, 'esMX', 'Teleport to Brutallus', '');
+(45012, 2, 'esMX', 'Teleport to Grobbulus', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 2, 'frFR', 'Teleport to Brutallus', '');
+(45012, 2, 'frFR', 'Teleport to Grobbulus', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 2, 'koKR', 'Teleport to Brutallus', '');
+(45012, 2, 'koKR', 'Teleport to Grobbulus', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 2, 'ruRU', 'Teleport to Brutallus', '');
+(45012, 2, 'ruRU', 'Teleport to Grobbulus', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 2, 'zhCN', 'Teleport to Brutallus', '');
+(45012, 2, 'zhCN', 'Teleport to Grobbulus', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 2, 'zhTW', 'Teleport to Brutallus', '');
+(45012, 2, 'zhTW', 'Teleport to Grobbulus', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 3, 'deDE', 'Teleport to Felmyst', '');
+(45012, 3, 'deDE', 'Teleport to Gluth', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 3, 'esES', 'Teleport to Felmyst', '');
+(45012, 3, 'esES', 'Teleport to Gluth', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 3, 'esMX', 'Teleport to Felmyst', '');
+(45012, 3, 'esMX', 'Teleport to Gluth', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 3, 'frFR', 'Teleport to Felmyst', '');
+(45012, 3, 'frFR', 'Teleport to Gluth', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 3, 'koKR', 'Teleport to Felmyst', '');
+(45012, 3, 'koKR', 'Teleport to Gluth', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 3, 'ruRU', 'Teleport to Felmyst', '');
+(45012, 3, 'ruRU', 'Teleport to Gluth', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 3, 'zhCN', 'Teleport to Felmyst', '');
+(45012, 3, 'zhCN', 'Teleport to Gluth', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 3, 'zhTW', 'Teleport to Felmyst', '');
+(45012, 3, 'zhTW', 'Teleport to Gluth', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 4, 'deDE', 'Teleport to Alythess & Sacrolash', '');
+(45012, 4, 'deDE', 'Teleport to Noth the Plaguebringer', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 4, 'esES', 'Teleport to Alythess & Sacrolash', '');
+(45012, 4, 'esES', 'Teleport to Noth the Plaguebringer', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 4, 'esMX', 'Teleport to Alythess & Sacrolash', '');
+(45012, 4, 'esMX', 'Teleport to Noth the Plaguebringer', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 4, 'frFR', 'Teleport to Alythess & Sacrolash', '');
+(45012, 4, 'frFR', 'Teleport to Noth the Plaguebringer', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 4, 'koKR', 'Teleport to Alythess & Sacrolash', '');
+(45012, 4, 'koKR', 'Teleport to Noth the Plaguebringer', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 4, 'ruRU', 'Teleport to Alythess & Sacrolash', '');
+(45012, 4, 'ruRU', 'Teleport to Noth the Plaguebringer', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 4, 'zhCN', 'Teleport to Alythess & Sacrolash', '');
+(45012, 4, 'zhCN', 'Teleport to Noth the Plaguebringer', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 4, 'zhTW', 'Teleport to Alythess & Sacrolash', '');
+(45012, 4, 'zhTW', 'Teleport to Noth the Plaguebringer', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 5, 'deDE', 'Teleport to M\'uru / Entropius', '');
+(45012, 5, 'deDE', 'Teleport to Heigan the Unclean', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 5, 'esES', 'Teleport to M\'uru / Entropius', '');
+(45012, 5, 'esES', 'Teleport to Heigan the Unclean', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 5, 'esMX', 'Teleport to M\'uru / Entropius', '');
+(45012, 5, 'esMX', 'Teleport to Heigan the Unclean', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 5, 'frFR', 'Teleport to M\'uru / Entropius', '');
+(45012, 5, 'frFR', 'Teleport to Heigan the Unclean', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 5, 'koKR', 'Teleport to M\'uru / Entropius', '');
+(45012, 5, 'koKR', 'Teleport to Heigan the Unclean', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 5, 'ruRU', 'Teleport to M\'uru / Entropius', '');
+(45012, 5, 'ruRU', 'Teleport to Heigan the Unclean', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 5, 'zhCN', 'Teleport to M\'uru / Entropius', '');
+(45012, 5, 'zhCN', 'Teleport to Heigan the Unclean', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 5, 'zhTW', 'Teleport to M\'uru / Entropius', '');
+(45012, 5, 'zhTW', 'Teleport to Heigan the Unclean', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 6, 'deDE', 'Teleport to Kil\'jaeden', '');
+(45012, 6, 'deDE', 'Teleport to Loatheb', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 6, 'esES', 'Teleport to Kil\'jaeden', '');
+(45012, 6, 'esES', 'Teleport to Loatheb', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 6, 'esMX', 'Teleport to Kil\'jaeden', '');
+(45012, 6, 'esMX', 'Teleport to Loatheb', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 6, 'frFR', 'Teleport to Kil\'jaeden', '');
+(45012, 6, 'frFR', 'Teleport to Loatheb', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 6, 'koKR', 'Teleport to Kil\'jaeden', '');
+(45012, 6, 'koKR', 'Teleport to Loatheb', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 6, 'ruRU', 'Teleport to Kil\'jaeden', '');
+(45012, 6, 'ruRU', 'Teleport to Loatheb', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 6, 'zhCN', 'Teleport to Kil\'jaeden', '');
+(45012, 6, 'zhCN', 'Teleport to Loatheb', '');
 REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
-(45012, 6, 'zhTW', 'Teleport to Kil\'jaeden', '');
+(45012, 6, 'zhTW', 'Teleport to Loatheb', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 7, 'deDE', 'Teleport to Anub\'Rekhan', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 7, 'esES', 'Teleport to Anub\'Rekhan', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 7, 'esMX', 'Teleport to Anub\'Rekhan', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 7, 'frFR', 'Teleport to Anub\'Rekhan', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 7, 'koKR', 'Teleport to Anub\'Rekhan', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 7, 'ruRU', 'Teleport to Anub\'Rekhan', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 7, 'zhCN', 'Teleport to Anub\'Rekhan', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 7, 'zhTW', 'Teleport to Anub\'Rekhan', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 8, 'deDE', 'Teleport to Grand Widow Faerlina', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 8, 'esES', 'Teleport to Grand Widow Faerlina', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 8, 'esMX', 'Teleport to Grand Widow Faerlina', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 8, 'frFR', 'Teleport to Grand Widow Faerlina', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 8, 'koKR', 'Teleport to Grand Widow Faerlina', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 8, 'ruRU', 'Teleport to Grand Widow Faerlina', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 8, 'zhCN', 'Teleport to Grand Widow Faerlina', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 8, 'zhTW', 'Teleport to Grand Widow Faerlina', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 9, 'deDE', 'Teleport to Maexxna', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 9, 'esES', 'Teleport to Maexxna', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 9, 'esMX', 'Teleport to Maexxna', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 9, 'frFR', 'Teleport to Maexxna', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 9, 'koKR', 'Teleport to Maexxna', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 9, 'ruRU', 'Teleport to Maexxna', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 9, 'zhCN', 'Teleport to Maexxna', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 9, 'zhTW', 'Teleport to Maexxna', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 10, 'deDE', 'Teleport to Thaddius', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 10, 'esES', 'Teleport to Thaddius', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 10, 'esMX', 'Teleport to Thaddius', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 10, 'frFR', 'Teleport to Thaddius', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 10, 'koKR', 'Teleport to Thaddius', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 10, 'ruRU', 'Teleport to Thaddius', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 10, 'zhCN', 'Teleport to Thaddius', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 10, 'zhTW', 'Teleport to Thaddius', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 11, 'deDE', 'Teleport to Instructor Razuvious', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 11, 'esES', 'Teleport to Instructor Razuvious', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 11, 'esMX', 'Teleport to Instructor Razuvious', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 11, 'frFR', 'Teleport to Instructor Razuvious', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 11, 'koKR', 'Teleport to Instructor Razuvious', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 11, 'ruRU', 'Teleport to Instructor Razuvious', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 11, 'zhCN', 'Teleport to Instructor Razuvious', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 11, 'zhTW', 'Teleport to Instructor Razuvious', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 12, 'deDE', 'Teleport to Gothik the Harvester', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 12, 'esES', 'Teleport to Gothik the Harvester', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 12, 'esMX', 'Teleport to Gothik the Harvester', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 12, 'frFR', 'Teleport to Gothik the Harvester', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 12, 'koKR', 'Teleport to Gothik the Harvester', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 12, 'ruRU', 'Teleport to Gothik the Harvester', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 12, 'zhCN', 'Teleport to Gothik the Harvester', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 12, 'zhTW', 'Teleport to Gothik the Harvester', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 13, 'deDE', 'Teleport to The Four Horsemen', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 13, 'esES', 'Teleport to The Four Horsemen', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 13, 'esMX', 'Teleport to The Four Horsemen', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 13, 'frFR', 'Teleport to The Four Horsemen', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 13, 'koKR', 'Teleport to The Four Horsemen', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 13, 'ruRU', 'Teleport to The Four Horsemen', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 13, 'zhCN', 'Teleport to The Four Horsemen', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 13, 'zhTW', 'Teleport to The Four Horsemen', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 14, 'deDE', 'Teleport to Sapphiron', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 14, 'esES', 'Teleport to Sapphiron', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 14, 'esMX', 'Teleport to Sapphiron', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 14, 'frFR', 'Teleport to Sapphiron', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 14, 'koKR', 'Teleport to Sapphiron', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 14, 'ruRU', 'Teleport to Sapphiron', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 14, 'zhCN', 'Teleport to Sapphiron', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 14, 'zhTW', 'Teleport to Sapphiron', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 15, 'deDE', 'Teleport to Kel\'Thuzad', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 15, 'esES', 'Teleport to Kel\'Thuzad', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 15, 'esMX', 'Teleport to Kel\'Thuzad', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 15, 'frFR', 'Teleport to Kel\'Thuzad', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 15, 'koKR', 'Teleport to Kel\'Thuzad', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 15, 'ruRU', 'Teleport to Kel\'Thuzad', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 15, 'zhCN', 'Teleport to Kel\'Thuzad', '');
+REPLACE INTO `gossip_menu_option_locale` (`MenuID`, `OptionID`, `Locale`, `OptionText`, `BoxText`) VALUES
+(45012, 15, 'zhTW', 'Teleport to Kel\'Thuzad', '');
